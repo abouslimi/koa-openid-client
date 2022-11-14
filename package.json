@@ -1,6 +1,6 @@
 {
   "name": "koa-openid-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "OpenID client for KOA framework.",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "koa",
     "openid",
     "auth",
-    "oauth"
+    "oauth",
+    "auth0"
   ],
   "author": "Ali Hosni Bouslimi",
   "repository": {
