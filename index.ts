@@ -67,3 +67,5 @@ export default class KoaOpenID {
         return await next();
     }
 }
+
+export * from "./src/types";
