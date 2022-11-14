@@ -1,0 +1,17 @@
+node_modules
+lib
+lib/**/*
+.env
+.env.*
+!.env.sample
+node_modules
+# Editors
+.idea
+*.iml
+# OS metadata
+.DS_Store
+Thumbs.db
+# Logging files
+*.log
+*.pyc
+
